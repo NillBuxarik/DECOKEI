@@ -1,0 +1,305 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\app.css",
+      "PackagePath": "staticwebassets\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\app.js",
+      "PackagePath": "staticwebassets\\app.js"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\css\\place.css",
+      "PackagePath": "staticwebassets\\css\\place.css"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\css\\style.css",
+      "PackagePath": "staticwebassets\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\font.css",
+      "PackagePath": "staticwebassets\\font.css"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\COPYRIGHT.txt",
+      "PackagePath": "staticwebassets\\fonts\\COPYRIGHT.txt"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\Verdana-Bold.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Verdana-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\Verdana-BoldItalic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Verdana-BoldItalic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\Verdana-Italic.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Verdana-Italic.ttf"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\Verdana.ttf",
+      "PackagePath": "staticwebassets\\fonts\\Verdana.ttf"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\fonts\\Verdana.zip",
+      "PackagePath": "staticwebassets\\fonts\\Verdana.zip"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\1.png",
+      "PackagePath": "staticwebassets\\image\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\11.png",
+      "PackagePath": "staticwebassets\\image\\11.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\2.png",
+      "PackagePath": "staticwebassets\\image\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\22.png",
+      "PackagePath": "staticwebassets\\image\\22.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\3.png",
+      "PackagePath": "staticwebassets\\image\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\33.png",
+      "PackagePath": "staticwebassets\\image\\33.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\back.png",
+      "PackagePath": "staticwebassets\\image\\back.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\D.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\D.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\I.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\I.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\L.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\L.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\O.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\O.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\S.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\S.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\SOLID.png",
+      "PackagePath": "staticwebassets\\image\\data\\SOLID.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\class.png",
+      "PackagePath": "staticwebassets\\image\\data\\class.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\cod1.png",
+      "PackagePath": "staticwebassets\\image\\data\\cod1.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\cod2.png",
+      "PackagePath": "staticwebassets\\image\\data\\cod2.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\cod3.png",
+      "PackagePath": "staticwebassets\\image\\data\\cod3.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\composition.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\composition.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\diagram.PNG",
+      "PackagePath": "staticwebassets\\image\\data\\diagram.PNG"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\oboz.png",
+      "PackagePath": "staticwebassets\\image\\data\\oboz.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\data\\result.png",
+      "PackagePath": "staticwebassets\\image\\data\\result.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\icon\\1.png",
+      "PackagePath": "staticwebassets\\image\\icon\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\icon\\2.png",
+      "PackagePath": "staticwebassets\\image\\icon\\2.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\icon\\3.png",
+      "PackagePath": "staticwebassets\\image\\icon\\3.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\1.webp",
+      "PackagePath": "staticwebassets\\image\\ob\\1.webp"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\10.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\10.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\11.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\11.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\12.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\12.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\13.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\13.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\14.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\14.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\15.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\15.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\2.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\2.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\3.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\3.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\4.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\4.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\5.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\5.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\6.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\6.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\7.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\7.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\8.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\8.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\9.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\9.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\ob\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\image\\ob\\ajax-loader.gif"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\image\\set.png",
+      "PackagePath": "staticwebassets\\image\\set.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\ind1ex.html",
+      "PackagePath": "staticwebassets\\ind1ex.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\index1.html",
+      "PackagePath": "staticwebassets\\index1.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\indey.html",
+      "PackagePath": "staticwebassets\\indey.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\logo.png",
+      "PackagePath": "staticwebassets\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place.html",
+      "PackagePath": "staticwebassets\\place.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\1.html",
+      "PackagePath": "staticwebassets\\place2\\1.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\2.html",
+      "PackagePath": "staticwebassets\\place2\\2.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\3.html",
+      "PackagePath": "staticwebassets\\place2\\3.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\4.html",
+      "PackagePath": "staticwebassets\\place2\\4.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\place2.html",
+      "PackagePath": "staticwebassets\\place2\\place2.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place2\\place2.js",
+      "PackagePath": "staticwebassets\\place2\\place2.js"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\place3.html",
+      "PackagePath": "staticwebassets\\place3.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\quiz.html",
+      "PackagePath": "staticwebassets\\quiz.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\result.html",
+      "PackagePath": "staticwebassets\\result.html"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\style1.css",
+      "PackagePath": "staticwebassets\\style1.css"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\video\\PatternIntroduction.mp4",
+      "PackagePath": "staticwebassets\\video\\PatternIntroduction.mp4"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\video\\конспект.pdf",
+      "PackagePath": "staticwebassets\\video\\конспект.pdf"
+    },
+    {
+      "Id": "C:\\Users\\senio\\source\\repos\\mvstwo\\mvstwo\\wwwroot\\video\\презентация.pdf",
+      "PackagePath": "staticwebassets\\video\\презентация.pdf"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.build.mvstwo.props",
+      "PackagePath": "build\\mvstwo.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.mvstwo.props",
+      "PackagePath": "buildMultiTargeting\\mvstwo.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.buildTransitive.mvstwo.props",
+      "PackagePath": "buildTransitive\\mvstwo.props"
+    },
+    {
+      "Id": "obj\\Release\\net7.0\\staticwebassets\\msbuild.mvstwo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

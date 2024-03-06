@@ -1,0 +1,101 @@
+is_global = true
+build_property.TargetFramework = net7.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = mvstwo
+build_property.RootNamespace = mvstwo
+build_property.ProjectDir = E:\Users\senio\source\repos\mvstwo\mvstwo\
+build_property.RazorLangVersion = 7.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = E:\Users\senio\source\repos\mvstwo\mvstwo
+build_property._RazorSourceGeneratorDebug = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Access/Login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWNjZXNzXExvZ2luLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/Cok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxDb2suY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/Edit1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxFZGl0MS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/EditCok.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxFZGl0Q29rLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxpbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/Main.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxNYWluLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/place.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxwbGFjZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/place2.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxwbGFjZTIuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/ProfileTeacher.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxQcm9maWxlVGVhY2hlci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/quiz.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxxdWl6LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/CokMain/result.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQ29rTWFpblxyZXN1bHQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Home/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Home/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Main/login.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcTWFpblxsb2dpbi5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/wwwroot/css/index1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxjc3NcaW5kZXgxLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[E:/Users/senio/source/repos/mvstwo/mvstwo/wwwroot/css/Main1.cshtml]
+build_metadata.AdditionalFiles.TargetPath = d3d3cm9vdFxjc3NcTWFpbjEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
